@@ -1,0 +1,8 @@
+# Скопируйте этот файл в config.txt и вставьте свои значения.
+# config.txt в .gitignore и в репозиторий не попадает.
+
+# Токен от @BotFather (/newbot)
+TOKEN=ВСТАВЬ_ТОКЕН
+
+# Ваш Telegram ID — узнайте командой /myid у бота
+OWNER_ID=

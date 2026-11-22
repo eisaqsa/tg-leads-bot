@@ -1,0 +1,8 @@
+# токен бота и данные заявок — не коммитить
+config.txt
+leads.csv
+log.txt
+__pycache__/
+*.pyc
+.venv/
+.env
